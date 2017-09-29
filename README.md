@@ -7,7 +7,6 @@ Como executar:
 3- Posteriormente execute ./a.out.
 4- Divirta-se!
 
-==============================================================================================================================
 Como funciona o Padrão do arquivo?:
 
 Código para executar-> IPC2 //Não executa com outro código.
