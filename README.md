@@ -13,6 +13,7 @@ Código para executar-> IPC2 //Não executa com outro código.
 Quantidade de pixels-> Linhas | Colunas
 Cor do fundo->         Cor R | Cor G | Cor b
 Código da figura->{
+
         1 - Ponto; [Posição em x] [Posição em y] [Cor R] [Cor G] [Cor B]
         Ex: 1 10 10 255 255 255
 
@@ -29,16 +30,23 @@ Código da figura->{
 Exemplos de arquivo:
 
 //Desenha um quadrado com uma reta no meio.
-ICP2
-1000 1000
-0 0 0
-3 250 250 750 750 240 0 255 0 0 255
-2 250 250 750 750 0 255 0
+{
+
+                ICP2
+                1000 1000
+                0 0 0
+                3 250 250 750 750 240 0 255 0 0 255
+                2 250 250 750 750 0 255 0
+}
+
 
 //Desenha um círculo.
-ICP2
-1000 1000
-0 0 0
-4 500 500 240 0 255 0 255 0 0
 
+{
+
+                ICP2
+                1000 1000
+                0 0 0
+                4 500 500 240 0 255 0 255 0 0
+}
 at.te Rafael Alessandro e Arnold Lima
