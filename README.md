@@ -1,15 +1,15 @@
 # Desenhar uma imagem em PPM ou PGM com figuras geométrica em C.
 
-#                       Trabalho de PC2
+##                       Trabalho de PC2
 
-Como executar:
+### Como executar:
 
         1- Extraia os arquivos;
         2- Execute no terminal, na pasta extraída, o comando "gcc main.c Img.c";
         3- Posteriormente execute ./a.out.
         4- Divirta-se!
 
-Como funciona o Padrão do arquivo?:
+### Como funciona o Padrão do arquivo?:
 
         Código para executar-> IPC2 //Não executa com outro código.
         Quantidade de pixels-> Linhas | Colunas
@@ -29,7 +29,7 @@ Como funciona o Padrão do arquivo?:
         Ex: 4 500 500 240 0 255 0 255 0 0
 
 
-Exemplos de arquivo:
+## Exemplos de arquivo:
 
 //Desenha um quadrado com uma reta no meio.
 
@@ -41,11 +41,11 @@ Exemplos de arquivo:
 
 
 
-//Desenha um círculo.
+### //Desenha um círculo.
 
                 ICP2
                 1000 1000
                 0 0 0
                 4 500 500 240 0 255 0 255 0 0
 
-at.te Rafael Alessandro e Arnold Lima
+#### at.te Rafael Alessandro e Arnold Lima
