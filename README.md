@@ -1,4 +1,5 @@
-# Desenhar uma imagem seguindo os padrões para PPM ou PGM.
+# Desenhar uma imagem em  PPM ou PGM em C.
+# com figuras geométricas. 
 Trabalho de PC2
 
 Como executar:
